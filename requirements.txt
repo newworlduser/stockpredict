@@ -3,7 +3,7 @@ yfinance
 matplotlib
 keras-tuner
 ta
-tensorflow==2.12.0
+tensorflow>=2.17.0
 tensorflow-addons==0.20.0
 numpy==1.23.5
 pandas==1.5.3
